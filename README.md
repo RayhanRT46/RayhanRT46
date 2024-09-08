@@ -1,3 +1,4 @@
+<div style="background-color: black;">
 ### Hi there 👋, my name is Md. Raquibur Rahman Talukder (Rayhan)
 #### I am a full stack developer.
 ![I am a full stack developer.](https://pbs.twimg.com/media/GW8ZxRQacAA2jZQ?format=jpg&name=large)
@@ -28,5 +29,5 @@ Skills: HTML / CSS / Tailwind CSS / Bootstrap / GSAP Animation/
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RayhanRT46/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RayhanRT46)  
-
+</div>
 

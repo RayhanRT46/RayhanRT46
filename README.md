@@ -27,8 +27,6 @@ Skills: HTML / CSS / Tailwind CSS / Bootstrap / GSAP Animation/
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RayhanRT46/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/RayhanRT46)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RayhanRT46)  
 
 

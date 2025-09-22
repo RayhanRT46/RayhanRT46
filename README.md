@@ -25,13 +25,30 @@ Hi, I’m **Md. Raquibur Rahman Talukder (Rayhan)** – a **Full-Stack Web Devel
 ---
 
 ## 🌐 Connect With Me  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40" alt="GitHub"/>](https://github.com/RayhanRT46)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/md-raqubur-rahman-talukder-rayhanrt)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40" alt="Facebook"/>](https://www.facebook.com/rayhan.rt.12)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="40" alt="Twitter"/>](https://x.com/RaquiburMd31828)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="40" alt="Portfolio"/>](https://protfoliort.netlify.app)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" height="40" alt="Fiverr"/>](https://www.fiverr.com/s/8zgRj0o)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" height="40" alt="Upwork"/>](https://www.upwork.com/freelancers/~01628a1972fe0d6861?mp_source=share)  
+
+<p align="center">
+  <a href="https://github.com/RayhanRT46">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-raqubur-rahman-talukder-rayhanrt">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/rayhan.rt.12">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://x.com/RaquiburMd31828">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://protfoliort.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/s/8zgRj0o">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01628a1972fe0d6861?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+</p>  
 
 ---
 

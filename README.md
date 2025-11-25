@@ -5,7 +5,7 @@ Hi, I’m **Md. Raquibur Rahman Talukder (Rayhan)** – a **Full-Stack Web Devel
 ---
 
 ## 💻 Tech Stack  
-**Frontend:** Angular • React • Next.js • Bootstrap • Tailwind CSS  
+**Frontend:** Angular • Bootstrap • Tailwind CSS  
 **Backend:** ASP.NET Core • Express.js  
 **CMS & SEO:** WordPress • SEO Optimization  
 
